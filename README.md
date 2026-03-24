@@ -1,5 +1,5 @@
 ## 👠 Decoding the Lyst Index
-A little bit about me — before I learned to code, I wanted to work in fashion. So, I worked on this project in February 2025 (just got to uploading it) to connect my passion for fashion with my new-found love for data science. The Lyst Index ranks the top 20 "hottest" fashion labels each quarter, so I thought it would be an entertaining way of the EDA skills I had just learng in my data sci class @ Berkeley.
+A little bit about me — before I learned to code, I wanted to work in fashion. So, I worked on this project in February 2025 (just got to uploading it) to connect my passion for fashion with my new-found love for data science. The Lyst Index ranks the top 20 "hottest" fashion labels each quarter, so I thought it would be an entertaining way to practice the EDA skills I had just learned in my data sci class @ Berkeley.
 
 ### 🛠️ Tools and tech
  - `Python`
